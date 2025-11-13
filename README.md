@@ -12,6 +12,6 @@ A simple food ordering system for restaurants that allows users to browse food i
 
 ## Tech Stack
 - **Frontend:** HTML, CSS
-- **Backend:** Java (Core Java / Servlets for advanced version)
+- **Backend:** Java (Core Java)
 - **Database:** Simulated using Java ArrayLists
 
