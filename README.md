@@ -1,7 +1,7 @@
 # Online Food Ordering System
 
 ## Description
-A simple food ordering system for restaurants that allows users to browse food items, add them to a cart, and checkout. Admins can manage food items and orders. This project is built using **HTML, CSS, and Java.
+A simple food ordering system for restaurants that allows users to browse food items, add them to a cart, and checkout. Admins can manage food items and orders. This project is built using HTML, CSS, and Java.
 
 ## Features
 - Display food items dynamically on a web page
